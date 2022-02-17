@@ -17,6 +17,8 @@ Harness CD is a modern self-service continuous delivery solution that allows dev
 - [See Also](#see-also)
 
 ## What is Harness CD Community Edition?
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksatchit%2Fharness-cd-community.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksatchit%2Fharness-cd-community?ref=badge_shield)
+
 
 Harness CD Community Edition is a free and open edition of Harness CD that is designed for developers to deploy cloud-native services at the fastest velocity possible. Developers can self-host this edition on Docker or Kubernetes using a [docker-compose.yml](./docker-compose/harness/) or a [helm-chart](./helm/) respectively. This `harness-cd-community` repo houses these docker-compose and helm installers for Harness CD Community Edition while the `harness-core` and other public repos in this `harness` organization house the source code.
 
@@ -59,6 +61,9 @@ Harness CD Community Edition code is released under the source available [PolyFo
 When contributing to a Harness CD feature, you can find the relevant license in the comments at the top of each file.
 
 For more information, see the [Harness Loves Open Source page](https://harness.io/open-source/).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksatchit%2Fharness-cd-community.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksatchit%2Fharness-cd-community?ref=badge_large)
 
 ## Comparison with Other CD Tools
 
